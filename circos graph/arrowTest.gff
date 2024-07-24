@@ -1,0 +1,13 @@
+ovarian	python	region	1	60942	.	+	.	ID=NC_000902.1:1..60942;Dbxref=taxon:97081;gbkey=Src;genome=proviral;mol_type=genomic DNA;nat-host=Escherichia coli O157:H7;synonym=Bacteriophage VT2-Sa
+
+ovarian	python	gene	29	1363	.	-	.	ID=gene-VT2-Sap01;Dbxref=GeneID:1262246;Name=int;gbkey=Gene;gene=int;gene_biotype=protein_coding;locus_tag=VT2-Sap01
+
+ovarian	python	gene	30	1000	.	-	.	ID=gene
+ovarian	python	amp	30000	33000	.	+	.	ID=gene5;comments=chr5_VT2-Sap01
+
+ovarian	python	amp	14000	17000	.	+	.	ID=newGene5;comments=chr5_VT10-Sap01
+ovarian	python	amp	100	7000	.	+	.	ID=newGene5
+
+ovarian	python	del	29000	34000	.	-	.	ID=newGene5;comments=mustGetDeleted1000
+
+ovarian	python	del	16000	22000	.	-	.	ID=Chr5;comments=mustGetDeleted5000

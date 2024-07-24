@@ -1,0 +1,261 @@
+chr1	RefSeq	region	1	62675788	.	+	.	ID=chr1;comments=range_of_chr1
+chr1	ovarian	amp	9913851	10525757	20.89279003035213	+	.	ID=chr1;comments=chr1
+
+chr1	ovarian	amp	37680659	37893711	17.284832642151542	+	.	ID=chr1;comments=chr1
+
+chr1	ovarian	amp	58943660	59220240	6.06198090252379	+	.	ID=chr1;comments=chr1
+
+chr1	ovarian	amp	39060228	39121176	8.411168274405792	+	.	ID=chr1;comments=chr1
+
+chr1	ovarian	amp	9211527	9247439	10.67366413907125	+	.	ID=chr1;comments=chr1
+
+chr1	ovarian	amp	45319325	45338092	2.834815048333993	+	.	ID=chr1;comments=chr1
+
+chr1	ovarian	amp	61203097	62675788	3.3023261254139915	+	.	ID=chr1;comments=chr1
+
+chr1	ovarian	amp	277705	371883	1.7681228126535218	+	.	ID=chr1;comments=chr1
+
+chr2	RefSeq	region	1	26477917	.	+	.	ID=chr2;comments=range_of_chr2
+chr2	ovarian	amp	19820504	20195656	4.1598939055432425	+	.	ID=chr2;comments=chr2
+
+chr2	ovarian	amp	1	47149	1.290653704906129	+	.	ID=chr2;comments=chr2
+
+chr2	ovarian	amp	10514496	10533199	1.0971435090497637	+	.	ID=chr2;comments=chr2
+
+chr2	ovarian	amp	18278912	18588080	3.142589096365492	+	.	ID=chr2;comments=chr2
+
+chr2	ovarian	amp	1644033	4913183	1.0800176334937883	+	.	ID=chr2;comments=chr2
+
+chr3	RefSeq	region	1	9517824	.	+	.	ID=chr3;comments=range_of_chr3
+chr3	ovarian	amp	9251848	9517824	20.58335949266172	+	.	ID=chr3;comments=chr3
+
+chr3	ovarian	amp	5204096	5214797	4.31069114087638	+	.	ID=chr3;comments=chr3
+
+chr3	ovarian	amp	8117548	8123730	62.096910013008056	+	.	ID=chr3;comments=chr3
+
+chr4	RefSeq	region	1	27922381	.	+	.	ID=chr4;comments=range_of_chr4
+chr4	ovarian	amp	10960392	11477462	5.287350298372789	+	.	ID=chr4;comments=chr4
+
+chr4	ovarian	amp	1	9860	4.782516055786093	+	.	ID=chr4;comments=chr4
+
+chr5	RefSeq	region	1	30205690	.	+	.	ID=chr5;comments=range_of_chr5
+chr5	ovarian	amp	1	204212	8.154281982033341	+	.	ID=chr5;comments=chr5
+
+chr5	ovarian	amp	3698885	7786859	0.6186141339866227	+	.	ID=chr5;comments=chr5
+
+chr6	RefSeq	region	1	34670835	.	+	.	ID=chr6;comments=range_of_chr6
+chr6	ovarian	amp	1	3816624	5.2564902352715706	+	.	ID=chr6;comments=chr6
+
+chr6	ovarian	amp	21258464	21342407	2.099802251903383	+	.	ID=chr6;comments=chr6
+
+chr6	ovarian	amp	6443610	9306597	1.4321388023722976	+	.	ID=chr6;comments=chr6
+
+chr7	RefSeq	region	1	11853446	.	+	.	ID=chr7;comments=range_of_chr7
+chr7	ovarian	amp	10574479	10613702	4.568636235841013	+	.	ID=chr7;comments=chr7
+
+chr7	ovarian	amp	10968778	11853446	3.802471344477229	+	.	ID=chr7;comments=chr7
+
+chr8	RefSeq	region	1	2503918	.	+	.	ID=chr8;comments=range_of_chr8
+chr8	ovarian	amp	709900	730653	3.522039919885513	+	.	ID=chr8;comments=chr8
+
+chr8	ovarian	amp	2076160	2080670	34.10902040301031	+	.	ID=chr8;comments=chr8
+
+chr8	ovarian	amp	1730142	1758036	4.586700235918748	+	.	ID=chr8;comments=chr8
+
+chr8	ovarian	amp	2471479	2503918	40.80410034759077	+	.	ID=chr8;comments=chr8
+
+chr8	ovarian	amp	2207054	2217929	78.73048705578208	+	.	ID=chr8;comments=chr8
+
+chr8	ovarian	amp	948187	952459	7.899629454882437	+	.	ID=chr8;comments=chr8
+chr9	RefSeq	region	1	10059948	.	+	.	ID=chr9;comments=range_of_chr9
+chr10	RefSeq	region	1	37313851	.	+	.	ID=chr10;comments=range_of_chr10
+chr10	ovarian	amp	1	1980646	1.8328304095913688	+	.	ID=chr10;comments=chr10
+
+chr10	ovarian	amp	21737581	21912508	4.422508200162775	+	.	ID=chr10;comments=chr10
+
+chr11	RefSeq	region	1	32234329	.	+	.	ID=chr11;comments=range_of_chr11
+chr11	ovarian	amp	18582620	18623216	27.032452023781136	+	.	ID=chr11;comments=chr11
+
+
+chr12	RefSeq	region	1	58092402	.	+	.	ID=chr12;comments=range_of_chr12
+
+chr13	RefSeq	region	1	22945559	.	+	.	ID=chr13;comments=range_of_chr13
+
+chr14	RefSeq	region	1	20721261	.	+	.	ID=chr14;comments=range_of_chr14
+
+chr15	RefSeq	region	1	30715294	.	+	.	ID=chr15;comments=range_of_chr15
+
+chr16	RefSeq	region	1	9508767	.	+	.	ID=chr16;comments=range_of_chr16
+
+chr17	RefSeq	region	1	5292353	.	+	.	ID=chr17;comments=range_of_chr17
+
+chr18	RefSeq	region	1	6499643	.	+	.	ID=chr18;comments=range_of_chr18
+
+chr19	RefSeq	region	1	9312112	.	+	.	ID=chr19;comments=range_of_chr19
+
+chr20	RefSeq	region	1	1024003	.	+	.	ID=chr20;comments=range_of_chr20
+
+chr21	RefSeq	region	1	23298228	.	+	.	ID=chr21;comments=range_of_chr21
+
+chr22	RefSeq	region	1	316998	.	+	.	ID=chr22;comments=range_of_chr22
+
+
+
+chr11	ovarian	amp	28923554	28952458	1.6908810680444413	+	.	ID=chr11;comments=chr11
+
+chr12	ovarian	amp	10926419	11073654	24.1944991418416	+	.	ID=chr12;comments=chr12
+
+chr12	ovarian	amp	1	822127	5.102922996790579	+	.	ID=chr12;comments=chr12
+
+chr12	ovarian	amp	29747336	30597176	2.8193867493883973	+	.	ID=chr12;comments=chr12
+
+chr12	ovarian	amp	19315760	19819717	1.874811615831403	+	.	ID=chr12;comments=chr12
+
+chr12	ovarian	amp	13570566	14346450	3.2332377756378587	+	.	ID=chr12;comments=chr12
+
+chr12	ovarian	amp	23913179	24046906	1.2776375963758777	+	.	ID=chr12;comments=chr12
+
+chr12	ovarian	amp	4693455	5274648	1.3174848926656582	+	.	ID=chr12;comments=chr12
+
+chr14	ovarian	amp	1	66248	12.446116973356126	+	.	ID=chr14;comments=chr14
+
+chr14	ovarian	amp	20131908	20721261	2.49254893909803	+	.	ID=chr14;comments=chr14
+
+chr15	ovarian	amp	27063805	30715294	2.259597830983716	+	.	ID=chr15;comments=chr15
+
+chr17	ovarian	amp	1838154	1842206	1.1418359025084286	+	.	ID=chr17;comments=chr17
+
+chr17	ovarian	amp	2536272	2542741	1.62721683229765	+	.	ID=chr17;comments=chr17
+
+chr17	ovarian	amp	4873829	5292353	4.007446482167865	+	.	ID=chr17;comments=chr17
+
+chr17	ovarian	amp	971613	982837	1.9918684377593376	+	.	ID=chr17;comments=chr17
+
+chr18	ovarian	amp	411752	452774	7.046723663332696	+	.	ID=chr18;comments=chr18
+
+chr18	ovarian	amp	927692	1090535	2.79617869748345	+	.	ID=chr18;comments=chr18
+
+chr18	ovarian	amp	1	193103	3.960704881915689	+	.	ID=chr18;comments=chr18
+
+chr19	ovarian	amp	5097962	5116262	101.72353819582676	+	.	ID=chr19;comments=chr19
+
+chr19	ovarian	amp	6487461	6573590	28.25649023527157	+	.	ID=chr19;comments=chr19
+
+chr19	ovarian	amp	1894641	2058164	25.247183568811728	+	.	ID=chr19;comments=chr19
+
+chr19	ovarian	amp	2466930	2552721	15.503070351926786	+	.	ID=chr19;comments=chr19
+
+chr19	ovarian	amp	5871664	5887376	20.171984935776024	+	.	ID=chr19;comments=chr19
+
+chr19	ovarian	amp	1450473	1566279	7.703334809738469	+	.	ID=chr19;comments=chr19
+
+chr19	ovarian	amp	3038818	3198510	4.480172006224281	+	.	ID=chr19;comments=chr19
+
+chr20	ovarian	amp	489141	494096	3.3109665477924817	+	.	ID=chr20;comments=chr20
+
+chr20	ovarian	amp	991968	1024003	5.012333735073725	+	.	ID=chr20;comments=chr20
+
+chr20	ovarian	amp	1	3300	3.4591201836458274	+	.	ID=chr20;comments=chr20
+
+chr22	ovarian	amp	1	4730	3.682751731554681	+	.	ID=chr22;comments=chr22
+
+chr1	ovarian	del	4224887	7295912	17.860120913598763	+	.	ID=chr1;comments=chr1
+
+chr1	ovarian	del	1	5969725	10.10902040301031	+	.	ID=chr1;comments=chr1
+
+chr1	ovarian	del	14246795	30134596	0.9691574971750831	+	.	ID=chr1;comments=chr1
+
+chr1	ovarian	del	51833410	55841175	0.7482887950155431	+	.	ID=chr1;comments=chr1
+
+chr2	ovarian	del	25466387	26477917	6.058488567365597	+	.	ID=chr2;comments=chr2
+
+chr2	ovarian	del	13972541	13977356	2.622165775529451	+	.	ID=chr2;comments=chr2
+
+chr3	ovarian	del	5629512	5634220	3.143718318813792	+	.	ID=chr3;comments=chr3
+
+chr3	ovarian	del	3598562	3630020	2.8112402070479883	+	.	ID=chr3;comments=chr3
+
+chr3	ovarian	del	1	454075	2.737050825284472	+	.	ID=chr3;comments=chr3
+
+chr4	ovarian	del	27905112	27922381	30.657577319177797	+	.	ID=chr4;comments=chr4
+
+chr4	ovarian	del	13598680	17911935	8.73754891026957	+	.	ID=chr4;comments=chr4
+
+chr5	ovarian	del	17004017	22256503	5.735182176990463	+	.	ID=chr5;comments=chr5
+
+chr5	ovarian	del	27323229	30205690	1.9169993304234667	+	.	ID=chr5;comments=chr5
+
+chr5	ovarian	del	9689460	10052607	39.3829996588791	+	.	ID=chr5;comments=chr5
+
+chr5	ovarian	del	11492796	12927133	48.66354026615147	+	.	ID=chr5;comments=chr5
+
+chr5	ovarian	del	12608813	15860185	35.54821356447571	+	.	ID=chr5;comments=chr5
+
+chr6	ovarian	del	32830251	34670835	18.58838029403677	+	.	ID=chr6;comments=chr6
+
+chr6	ovarian	del	10849153	11047258	4.052566278112949	+	.	ID=chr6;comments=chr6
+
+chr6	ovarian	del	18204554	25485074	1.5072116829655708	+	.	ID=chr6;comments=chr6
+
+chr7	ovarian	del	1	845351	10.1765257708297	+	.	ID=chr7;comments=chr7
+
+chr8	ovarian	del	422141	465062	8.45842075605342	+	.	ID=chr8;comments=chr8
+
+chr8	ovarian	del	1	33944	13.962573502059376	+	.	ID=chr8;comments=chr8
+
+chr9	ovarian	del	1	138285	0.9121121505070666	+	.	ID=chr9;comments=chr9
+
+chr9	ovarian	del	1555962	1584037	0.8739660519481871	+	.	ID=chr9;comments=chr9
+
+chr9	ovarian	del	9338480	10059948	2.2304159162518284	+	.	ID=chr9;comments=chr9
+
+chr10	ovarian	del	24724705	24727585	10.26680273489343	+	.	ID=chr10;comments=chr10
+
+chr10	ovarian	del	27028892	37313851	0.9408911820864062	+	.	ID=chr10;comments=chr10
+
+chr11	ovarian	del	1	975344	8.886056647693163	+	.	ID=chr11;comments=chr11
+
+chr11	ovarian	del	24506299	32234329	2.1082117386156862	+	.	ID=chr11;comments=chr11
+
+chr12	ovarian	del	32554213	58092402	1.6618623716680918	+	.	ID=chr12;comments=chr12
+
+chr13	ovarian	del	22935369	22945559	17.03058408764602	+	.	ID=chr13;comments=chr13
+
+chr13	ovarian	del	1	10989526	3.5284442712128365	+	.	ID=chr13;comments=chr13
+
+chr14	ovarian	del	7767723	12762505	1.4261888305727246	+	.	ID=chr14;comments=chr14
+
+chr15	ovarian	del	11999297	12324539	16.621602099051863	+	.	ID=chr15;comments=chr15
+
+chr15	ovarian	del	1	9402426	9.931814138253838	+	.	ID=chr15;comments=chr15
+
+chr16	ovarian	del	8285422	8303383	5.187755303199631	+	.	ID=chr16;comments=chr16
+
+chr16	ovarian	del	6140192	7210834	0.9408911820864062	+	.	ID=chr16;comments=chr16
+
+chr16	ovarian	del	9498589	9508767	4.935542010773082	+	.	ID=chr16;comments=chr16
+
+chr16	ovarian	del	1	28790	1.2052262355689851	+	.	ID=chr16;comments=chr16
+
+chr17	ovarian	del	734905	739776	26.590066876668704	+	.	ID=chr17;comments=chr17
+
+chr17	ovarian	del	1160985	1163831	8.60906489289662	+	.	ID=chr17;comments=chr17
+
+chr17	ovarian	del	1	3630	1.5657185918636989	+	.	ID=chr17;comments=chr17
+
+chr18	ovarian	del	5766896	6499643	10.79317412396815	+	.	ID=chr18;comments=chr18
+
+chr19	ovarian	del	9301188	9312112	5.059483515067432	+	.	ID=chr19;comments=chr19
+
+chr19	ovarian	del	184573	645938	56.52578373592375	+	.	ID=chr19;comments=chr19
+
+chr19	ovarian	del	1	44790	55.51855737149769	+	.	ID=chr19;comments=chr19
+
+chr19	ovarian	del	6670947	8029875	1.3690740399898775	+	.	ID=chr19;comments=chr19
+
+chr21	ovarian	del	20597185	23298228	1.3804579910607782	+	.	ID=chr21;comments=chr21
+
+chr21	ovarian	del	1	11562791	3.986025822979084	+	.	ID=chr21;comments=chr21
+
+chr22	ovarian	del	313298	316998	38.99567862621736	+	.	ID=chr22;comments=chr22
+
